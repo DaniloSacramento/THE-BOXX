@@ -1,0 +1,39 @@
+.button{
+    text-transform: lowercase;
+    font-weight: 500;
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+   
+    
+}
+
+.button-primay:hover{
+     background-color: black;
+     border-color: black;
+     
+
+}
+.button-primay-outline{
+    background-color: green;
+    color:green;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: 700;
+}
+.title{
+    text-transform: uppercase;
+}
+.subtitle{
+    color: grey;
+    font-weight: 400;
+}
+.esp {
+    margin-bottom: 120px;
+}
+.a {
+    color: grey;
+}
+a:hover {
+    color: hotpink;
+}
